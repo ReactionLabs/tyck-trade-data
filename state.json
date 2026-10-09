@@ -1,10 +1,10 @@
 {
- "updated_at": 1791553926,
+ "updated_at": 1791554206,
  "scanner": {
   "status": "ok",
-  "last_poll": 1791553926,
-  "mints_seen_total": 1445,
-  "new_this_poll": 5,
+  "last_poll": 1791554206,
+  "mints_seen_total": 1453,
+  "new_this_poll": 3,
   "error": null
  },
  "launchpads": {
@@ -179,27 +179,6 @@
  },
  "watchlist": [
   {
-   "mint": "Ju2hGKEpbbTdGdNu16HhEqma5fEDJgom2UnuZgTpump",
-   "launchpad": "pump.fun",
-   "first_seen": 1791525053,
-   "volume_usd": 9.69,
-   "last_checked": 1791552951
-  },
-  {
-   "mint": "GPjgYNhYN3bcGvuJXJkxir6pDRhYe3BxtZPKEfhHpump",
-   "launchpad": "pump.fun",
-   "first_seen": 1791525053,
-   "volume_usd": 109.13,
-   "last_checked": 1791552951
-  },
-  {
-   "mint": "C2kFUmpnPXRhbTMLaocMcCeLZ9KjhfcMoZh3zFwbpump",
-   "launchpad": "pump.fun",
-   "first_seen": 1791525053,
-   "volume_usd": 936.61,
-   "last_checked": 1791552951
-  },
-  {
    "mint": "DA3Dqiy2RzhV2VUZ7KCdjGo6vfnRVs8f8W2ktXALpump",
    "launchpad": "pump.fun",
    "first_seen": 1791525053,
@@ -274,63 +253,63 @@
    "launchpad": "pump.fun",
    "first_seen": 1791525948,
    "volume_usd": 238.23,
-   "last_checked": 1791552649
+   "last_checked": 1791554149
   },
   {
    "mint": "A9GeHrHPPvA2fyZEoktj56pKLvaqX4829WGbSbcRpump",
    "launchpad": "pump.fun",
    "first_seen": 1791526248,
    "volume_usd": 48.09,
-   "last_checked": 1791552649
+   "last_checked": 1791554149
   },
   {
    "mint": "BmC45qJSoRVEEP1XuKuSkoAEACVqQxCBdqDZqoSZpump",
    "launchpad": "pump.fun",
    "first_seen": 1791526248,
    "volume_usd": 28.91,
-   "last_checked": 1791552649
+   "last_checked": 1791554149
   },
   {
    "mint": "5rPWjUXnAteoRq3U16SRLWL1RwbccmuZcrYXp8NVpump",
    "launchpad": "pump.fun",
    "first_seen": 1791526248,
    "volume_usd": 0.21,
-   "last_checked": 1791552649
+   "last_checked": 1791554149
   },
   {
    "mint": "5ZaXr9JfPAepWpSf1UD7sWhr9oWoUhGTELAGx8YFpump",
    "launchpad": "pump.fun",
    "first_seen": 1791526248,
    "volume_usd": 69.67,
-   "last_checked": 1791552649
+   "last_checked": 1791554149
   },
   {
    "mint": "FGT5nwHZpWbbc3xfoi2TcQpbKtRnUmsg1RADLCvWpump",
    "launchpad": "pump.fun",
    "first_seen": 1791526548,
    "volume_usd": 70.98,
-   "last_checked": 1791552649
+   "last_checked": 1791554149
   },
   {
    "mint": "EECJs9p3wHViJAdzWqR4YgdPWXuiD5a3YS6ufe1kpump",
    "launchpad": "pump.fun",
    "first_seen": 1791526548,
    "volume_usd": 202.2,
-   "last_checked": 1791552649
+   "last_checked": 1791554149
   },
   {
    "mint": "H9P61kkmQBmKRGEhrp5fWm385zd8FoJDmKxbwhwApump",
    "launchpad": "pump.fun",
    "first_seen": 1791526548,
    "volume_usd": 847.26,
-   "last_checked": 1791552649
+   "last_checked": 1791554149
   },
   {
    "mint": "2Lm15E76a4qGUkjXMVSjfBxcxoKbDjUq6rbpiiQ2pump",
    "launchpad": "pump.fun",
    "first_seen": 1791526548,
    "volume_usd": 220.47,
-   "last_checked": 1791552649
+   "last_checked": 1791554149
   },
   {
    "mint": "9atcNbnsUx3zMRuedsHcexwbZQZ1TAM82jppMezXpump",
@@ -470,7 +449,7 @@
    "launchpad": "pump.fun",
    "first_seen": 1791527748,
    "volume_usd": 22.11,
-   "last_checked": 1791552649
+   "last_checked": 1791554149
   },
   {
    "mint": "8RCmwi4y1562TCZ6GaoZ56HP1Z12hHKxmv9Hdr2pump",
@@ -967,84 +946,84 @@
    "launchpad": "pump.fun",
    "first_seen": 1791532555,
    "volume_usd": 27.51,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "GYa9GTxViXsswFGMt9aRdR88oAWTBTSdLuP9CmcMpump",
    "launchpad": "pump.fun",
    "first_seen": 1791532555,
    "volume_usd": 0.68,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "2K7vEFMXe765z657Ky9YPFTg1tmJFtgXSC6RE9e6pump",
    "launchpad": "pump.fun",
    "first_seen": 1791532555,
    "volume_usd": 450.61,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "5NS7opNAeyvW2YAXSgzfRcwjwJixkYTfu51krDREpump",
    "launchpad": "pump.fun",
    "first_seen": 1791532555,
    "volume_usd": 123.7,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "7qKgmZzJ3nebWfhdzrB8cUgRXUQCxzShSv5P93bdpump",
    "launchpad": "pump.fun",
    "first_seen": 1791532848,
    "volume_usd": 385.96,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "26iQ9cG1Tji17tD2xso38UmpBQMhcQUN4AM2mztApump",
    "launchpad": "pump.fun",
    "first_seen": 1791532848,
    "volume_usd": 56.62,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "Cgw529Z9WYvbpvciu2A3Ar8pvWYFnNzFgbdL3emPpump",
    "launchpad": "pump.fun",
    "first_seen": 1791532848,
    "volume_usd": 753.69,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "EVKjdoyJ4bk14HgTRtqVcUtmBYDTktvGYsvY7a6ppump",
    "launchpad": "pump.fun",
    "first_seen": 1791532848,
    "volume_usd": 726.76,
-   "last_checked": 1791552649
+   "last_checked": 1791554149
   },
   {
    "mint": "46NrQPdETK2xBn23uwUbpmFz2uJEWXNbhW4TThr3pump",
    "launchpad": "pump.fun",
    "first_seen": 1791532848,
    "volume_usd": 0.0,
-   "last_checked": 1791552649
+   "last_checked": 1791554149
   },
   {
    "mint": "2ZzNZFAypwi8QzVMygF6oCN2y8zMp8QUzCyw6CQBpump",
    "launchpad": "pump.fun",
    "first_seen": 1791532848,
    "volume_usd": 0.1,
-   "last_checked": 1791552649
+   "last_checked": 1791554149
   },
   {
    "mint": "EuGAuJXzDA8uxLcQ9fKZAgbtfFcXT1Gm9VmJeiZgpump",
    "launchpad": "pump.fun",
    "first_seen": 1791532848,
-   "volume_usd": 99.88,
-   "last_checked": 1791552649
+   "volume_usd": 103.11,
+   "last_checked": 1791554149
   },
   {
    "mint": "7bQtNyhPKaWxRDSjZ2G4cj35XuFnHxMufCYmhwN7pump",
    "launchpad": "pump.fun",
    "first_seen": 1791532848,
    "volume_usd": 100.51,
-   "last_checked": 1791552649
+   "last_checked": 1791554149
   },
   {
    "mint": "BtAGmf6zKrUn1ynR8un4whmgvTVUCDm8bstX88BZpump",
@@ -1212,14 +1191,14 @@
    "launchpad": "pump.fun",
    "first_seen": 1791534347,
    "volume_usd": 18.72,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "8W6kNnK5DCtXu1fkdArBDCxsUpGEDnN6f3E5xGMJpump",
    "launchpad": "pump.fun",
    "first_seen": 1791534347,
    "volume_usd": 258.3,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "76LGsJiJYxfFksm9sNVBBVMr5ofqErWZSgkG68L5pump",
@@ -1443,56 +1422,56 @@
    "launchpad": "pump.fun",
    "first_seen": 1791536148,
    "volume_usd": 594.66,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "Ew9ZcwVETbauc1apvwc1YqDZkKVfVivfLim82vPApump",
    "launchpad": "pump.fun",
    "first_seen": 1791536148,
    "volume_usd": 254.15,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "Hijb7dpELCcgTtF3uCbjJrxxaJhirXWy9ZoieESDpump",
    "launchpad": "pump.fun",
    "first_seen": 1791536148,
    "volume_usd": 850.18,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "4Ln39jU821CUb96ALXjTGvAYWhnPSsFdLWJR1V1ppump",
    "launchpad": "pump.fun",
    "first_seen": 1791536148,
    "volume_usd": 32.95,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "M4kpKWBWRAABwDcshxrvJKiVmLZ9GoXAz9tHndTpump",
    "launchpad": "pump.fun",
    "first_seen": 1791536148,
    "volume_usd": 882.79,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "uNWK2MhLdi2BkMHbvt316Cznhk3TKPoyvSxLf9Qpump",
    "launchpad": "pump.fun",
    "first_seen": 1791536148,
    "volume_usd": 259.45,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "8vSLn9kzb3QVzuqfS2wibm4mPvdxtSFQuDqFQ7nYpump",
    "launchpad": "pump.fun",
    "first_seen": 1791536148,
    "volume_usd": 212.26,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "FjAcwbFoMzLVPo49y5YdrVdD7xESJicnd14GaunDpump",
    "launchpad": "pump.fun",
    "first_seen": 1791536148,
    "volume_usd": 183.79,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "2sGHnJVBV6ZTMevQKsdE1i3kFYbUHYLuHn6vyA8Qpump",
@@ -1681,49 +1660,49 @@
    "launchpad": "pump.fun",
    "first_seen": 1791537947,
    "volume_usd": 88.06,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "Ev932x9XgNTP64ddQoDAYkJuhNTe46hqrAZSSgvKpump",
    "launchpad": "pump.fun",
    "first_seen": 1791537947,
    "volume_usd": 218.42,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "Bp65r7UDbnutu8ca6VYKi3uEQmrvPyNVwGAoumvBpump",
    "launchpad": "pump.fun",
    "first_seen": 1791537947,
    "volume_usd": 138.24,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "HBQ26sTbfndnK1MpcLDFxFnvcLFn8Bqq2EpfqZVfpump",
    "launchpad": "pump.fun",
    "first_seen": 1791537947,
    "volume_usd": 118.79,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "2xwUA474W2TDsVWWqxu8qE7HerajPwPZfbnk8RvMpump",
    "launchpad": "pump.fun",
    "first_seen": 1791537947,
    "volume_usd": 566.44,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "CK9inyDxxgJm18cqjPT1FhnLzMUBK18j7TCi2STpump",
    "launchpad": "pump.fun",
    "first_seen": 1791537947,
    "volume_usd": 619.47,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "B1tQzVSiwRiNWgYkMQjKcUKMUX7Ke8SSnn7ukmsfpump",
    "launchpad": "pump.fun",
    "first_seen": 1791537947,
    "volume_usd": 585.24,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "8KEuvAfAvytKhU15pZquKE1dQfwzVXNQJ1RWcWxPpump",
@@ -1912,49 +1891,49 @@
    "launchpad": "pump.fun",
    "first_seen": 1791539748,
    "volume_usd": 0.0,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "22EQLs77GYqDcysrCFxQE7iHBHCuynM7bqTZb768pump",
    "launchpad": "pump.fun",
    "first_seen": 1791539748,
    "volume_usd": 305.02,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "8i5TfWBSNorNYRtH7rCxRFfRaYwUETW4VGUEAugBpump",
    "launchpad": "pump.fun",
    "first_seen": 1791539748,
    "volume_usd": 449.58,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "GDCPJMXbd8TRwViE98P3ZsCDGVQ5y7UvFvE53fNhpump",
    "launchpad": "pump.fun",
    "first_seen": 1791539748,
    "volume_usd": 35.11,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "EAQ9K99SHtZi1sJowrt8MFhqsT8MczVHpQU5pPBHpump",
    "launchpad": "pump.fun",
    "first_seen": 1791539748,
    "volume_usd": 255.87,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "7QuwuR9ii3dnL6MhR2ve9yfNpDZDwo5HdLEmes7hpump",
    "launchpad": "pump.fun",
    "first_seen": 1791539748,
    "volume_usd": 125.88,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "B4wiiEbEYES3SVJotGEctNuNfeenWVBbDM1GmC9Upump",
    "launchpad": "pump.fun",
    "first_seen": 1791539748,
    "volume_usd": 0.1,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "2UEjhcaZLLKFoyabwLuSZpKTC91miYUzsbWUbUovpump",
@@ -2136,56 +2115,56 @@
    "launchpad": "pump.fun",
    "first_seen": 1791541548,
    "volume_usd": 213.2,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "7eBuxLPTFR6MUWdG4J8jJNLbhvA4fMUJDmPq6VwUpump",
    "launchpad": "pump.fun",
    "first_seen": 1791541548,
    "volume_usd": 439.21,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "Cdgus3ee4EFsqg7cXg5RrndoUfipzfGRX1WZyQsopump",
    "launchpad": "pump.fun",
    "first_seen": 1791541548,
    "volume_usd": 615.11,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "EiVnC5Nu2hcyYgYPE7LhoTeckb8qhbzb42mtK76cpump",
    "launchpad": "pump.fun",
    "first_seen": 1791541548,
    "volume_usd": 48.6,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "2ZpGthZBM6KTg1ZsAm5YfwrurwZLkDwXKySUHYz1pump",
    "launchpad": "pump.fun",
    "first_seen": 1791541548,
    "volume_usd": 178.92,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "CWCBFhmRUJ7pfyiSH3v3NF95KeGZiptGc1C6g5HWpump",
    "launchpad": "pump.fun",
    "first_seen": 1791541548,
    "volume_usd": 50.21,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "FcsNZ6ZSrSiJ8gidogfrGLa8rmDQ3yH6cRo7oQ62pump",
    "launchpad": "pump.fun",
    "first_seen": 1791541548,
    "volume_usd": 235.64,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "J54ZGapJMKvDJJe6QYVAxPpGesMXet9QQRQNDMGWpump",
    "launchpad": "pump.fun",
    "first_seen": 1791541548,
    "volume_usd": 685.26,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "Gq6XKXQTWT9MxshUaCoPWNKWodiYTTEkHaKrRmjgpump",
@@ -2290,35 +2269,35 @@
    "launchpad": "pump.fun",
    "first_seen": 1791543348,
    "volume_usd": 0.1,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "EZsVj7DkEcDbc95wVfxeUc1dnQz13SetD7SpFnUpump",
    "launchpad": "pump.fun",
    "first_seen": 1791543348,
    "volume_usd": 0.1,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "8au5GchGnMDwt6ssd28Gr2UtnbHxSsRDcyA8nWhApump",
    "launchpad": "pump.fun",
    "first_seen": 1791543348,
    "volume_usd": 905.25,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "56NMw2FiumWD6DcnDawpRZJ4nFAVvNdpATcJNCfcpump",
    "launchpad": "pump.fun",
    "first_seen": 1791543348,
    "volume_usd": 116.39,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "4Sf1t3w6CW8KUYFknk3vETBHxFtVFzB12JQWeCmypump",
    "launchpad": "pump.fun",
    "first_seen": 1791543348,
    "volume_usd": 24.73,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "EvXvXhLk1LhQ9uEkKYmqbNh8FiMzJZBH7KUe2KySpump",
@@ -2772,50 +2751,50 @@
    "mint": "2kvpbsaNiBpxkPkegbYPjEABKtF5PAXQdftWrZa8pump",
    "launchpad": "pump.fun",
    "first_seen": 1791546948,
-   "volume_usd": 472.57,
-   "last_checked": 1791552355
+   "volume_usd": 472.6,
+   "last_checked": 1791554149
   },
   {
    "mint": "EEj3NJwuEktzsWWwg7fF18pwaEfpN6tp1fHTXfXbpump",
    "launchpad": "pump.fun",
    "first_seen": 1791546948,
-   "volume_usd": 681.55,
-   "last_checked": 1791552355
+   "volume_usd": 681.65,
+   "last_checked": 1791554149
   },
   {
    "mint": "HrLjdn4iSXeSRdwaaLdrVmHt4TEnXM7UeVsu5WDnpump",
    "launchpad": "pump.fun",
    "first_seen": 1791546948,
-   "volume_usd": 159.59,
-   "last_checked": 1791552355
+   "volume_usd": 159.76,
+   "last_checked": 1791554149
   },
   {
    "mint": "Dd7K2pSKAV2adZnsqzXKaoi52MtZ9NA8n8ptaBzepump",
    "launchpad": "pump.fun",
    "first_seen": 1791546948,
    "volume_usd": 54.88,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "7gYHvBFYkDJPLNyc3FAc2WNuEhvYMmLs3qWAxLy7pump",
    "launchpad": "pump.fun",
    "first_seen": 1791546948,
-   "volume_usd": 166.63,
-   "last_checked": 1791552355
+   "volume_usd": 166.76,
+   "last_checked": 1791554149
   },
   {
    "mint": "32WWd8rCw3DWYwMWouBPvtUFrvQ6ZZN3FNSUKZXcpump",
    "launchpad": "pump.fun",
    "first_seen": 1791546948,
    "volume_usd": 286.57,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "G822NHCaRjMRfSVRRn2oKfesXR6XX9bY9TuedZ4bpump",
    "launchpad": "pump.fun",
    "first_seen": 1791546948,
    "volume_usd": 428.95,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "FztGBNCqrdV4TRt2PrF9YAHoJ1i8kzCyaRwgctaxpump",
@@ -3017,43 +2996,43 @@
    "mint": "C71smbN8ADdEzXrNAufRfgp6cTr9eYNU8XKQm6ZApump",
    "launchpad": "pump.fun",
    "first_seen": 1791548748,
-   "volume_usd": 636.32,
-   "last_checked": 1791552355
+   "volume_usd": 636.46,
+   "last_checked": 1791554149
   },
   {
    "mint": "DmG2t2zyWZt5xYuMsxvATkSgm1HaYhrSc92zEbtypump",
    "launchpad": "pump.fun",
    "first_seen": 1791548748,
    "volume_usd": 269.6,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "3wYGaiEny15igwRC4gssw5dyBnvr2niSMUJGhZFapump",
    "launchpad": "pump.fun",
    "first_seen": 1791548748,
    "volume_usd": 488.82,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "5bUFuCrBjYhr5zsZjZ82nHfKGWV6GDAuLLQtTpCspump",
    "launchpad": "pump.fun",
    "first_seen": 1791548748,
-   "volume_usd": 590.45,
-   "last_checked": 1791552355
+   "volume_usd": 590.64,
+   "last_checked": 1791554149
   },
   {
    "mint": "5L8UCzFoVpSUT87gxg5xeQ5gNZCEhntv8LHQDmUopump",
    "launchpad": "pump.fun",
    "first_seen": 1791548748,
    "volume_usd": 88.46,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "31r6zX9bJgyXZaVS5tvKpeH2wMmDChA5jwqu6GYypump",
    "launchpad": "pump.fun",
    "first_seen": 1791548748,
-   "volume_usd": 523.39,
-   "last_checked": 1791552355
+   "volume_usd": 524.3,
+   "last_checked": 1791554149
   },
   {
    "mint": "AeYfM3owWxWAijUYCC74AAwRxAb85q7nxSdjVmbHpump",
@@ -3200,21 +3179,21 @@
    "launchpad": "pump.fun",
    "first_seen": 1791550553,
    "volume_usd": 185.14,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "3xKbqGzKQMEr759XFaMDBjvTfF8pV6UfSazp5eSypump",
    "launchpad": "pump.fun",
    "first_seen": 1791550553,
    "volume_usd": 266.26,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "CQEAyphyN91VYf2HACL6HKEn5KqwqzJFcQ6kpMEipump",
    "launchpad": "pump.fun",
    "first_seen": 1791550553,
    "volume_usd": 0.0,
-   "last_checked": 1791552355
+   "last_checked": 1791554149
   },
   {
    "mint": "5vudUqKESgkfnAEAftUzAuW48rEUCxvFhBN9vBAgpump",
@@ -3385,53 +3364,32 @@
    "last_checked": 1791553848
   },
   {
-   "mint": "DiPBH3KW12YyQ8bcs3HfCjY6h9gQEd5vNM9gChumpump",
-   "launchpad": "pump.fun",
-   "first_seen": 1791552355,
-   "volume_usd": null,
-   "last_checked": 1791552355
-  },
-  {
-   "mint": "EsrSEURJSBr6NceWnHN9WWiAMfDJQVKpXh9WWQXxpump",
-   "launchpad": "pump.fun",
-   "first_seen": 1791552355,
-   "volume_usd": null,
-   "last_checked": 1791552355
-  },
-  {
    "mint": "ACXhga8Q1tFoZPXput8cTNTVSwbEsEhCtk15usoDpump",
    "launchpad": "pump.fun",
    "first_seen": 1791552355,
-   "volume_usd": null,
-   "last_checked": 1791552355
+   "volume_usd": 660.08,
+   "last_checked": 1791554149
   },
   {
    "mint": "GWsM6TB5VPHahUkvnQUurDLQ6SoMzL1pHddXcDBGpump",
    "launchpad": "pump.fun",
    "first_seen": 1791552355,
-   "volume_usd": null,
-   "last_checked": 1791552355
-  },
-  {
-   "mint": "uhTuYb7Lbjvx8piJyQFicfTQPamFsSC99xiSVA8pump",
-   "launchpad": "pump.fun",
-   "first_seen": 1791552355,
-   "volume_usd": null,
-   "last_checked": 1791552355
+   "volume_usd": 4.61,
+   "last_checked": 1791554149
   },
   {
    "mint": "LJBw5e3HqesnZSfas9pz2n4EFHDSncuLCDQqzcwpump",
    "launchpad": "pump.fun",
    "first_seen": 1791552355,
-   "volume_usd": null,
-   "last_checked": 1791552355
+   "volume_usd": 0.0,
+   "last_checked": 1791554149
   },
   {
    "mint": "85beEx1nvki8igjKYcEWFdxNy6UiBsuWjQ66D6vYpump",
    "launchpad": "pump.fun",
    "first_seen": 1791552355,
-   "volume_usd": null,
-   "last_checked": 1791552355
+   "volume_usd": 902.54,
+   "last_checked": 1791554149
   },
   {
    "mint": "CRhUgBwWPeTrgTneQUqRDWqr64kFVVdDaJUm2kicpump",
@@ -3642,15 +3600,278 @@
    "first_seen": 1791553848,
    "volume_usd": null,
    "last_checked": 1791553848
+  },
+  {
+   "mint": "Bkay7KWNfo4vZBrs6GQpF4DLsEjp6YgSFTkNPUfVpump",
+   "launchpad": "pump.fun",
+   "first_seen": 1791554149,
+   "volume_usd": null,
+   "last_checked": 1791554149
+  },
+  {
+   "mint": "CVNfopaMd6w23pK4f1JBwdyi2yZF8J5kpxoAhmepump",
+   "launchpad": "pump.fun",
+   "first_seen": 1791554149,
+   "volume_usd": null,
+   "last_checked": 1791554149
+  },
+  {
+   "mint": "FWGu3sqqh4BYeM4jW1PicJqfSkpvWWwoUU3Rv5vKpump",
+   "launchpad": "pump.fun",
+   "first_seen": 1791554149,
+   "volume_usd": null,
+   "last_checked": 1791554149
+  },
+  {
+   "mint": "3H5uN276148svVYT9QSBha3A9L3n1Sd7Jkgpy6D7pump",
+   "launchpad": "pump.fun",
+   "first_seen": 1791554149,
+   "volume_usd": null,
+   "last_checked": 1791554149
+  },
+  {
+   "mint": "HhxaoRU9ujjFHRuVhVFAKnwtQB2BsoJjZszCWdqZpump",
+   "launchpad": "pump.fun",
+   "first_seen": 1791554149,
+   "volume_usd": null,
+   "last_checked": 1791554149
+  },
+  {
+   "mint": "EidihSPmq69E3joUh4uMiq4s1ssuW7dwTUALP8Aepump",
+   "launchpad": "pump.fun",
+   "first_seen": 1791554149,
+   "volume_usd": null,
+   "last_checked": 1791554149
+  },
+  {
+   "mint": "2R2yLGXxd17Nj56mtRBZp5iAp5MX94F41a62eJgrpump",
+   "launchpad": "pump.fun",
+   "first_seen": 1791554149,
+   "volume_usd": null,
+   "last_checked": 1791554149
+  },
+  {
+   "mint": "4d8bMf8wDERkF5sJ9PFixdYiDSVqehnoXqH3bWeDpump",
+   "launchpad": "pump.fun",
+   "first_seen": 1791554149,
+   "volume_usd": null,
+   "last_checked": 1791554149
   }
  ],
  "candidates": [
+  {
+   "mint": "EsrSEURJSBr6NceWnHN9WWiAMfDJQVKpXh9WWQXxpump",
+   "launchpad": "pump.fun",
+   "first_seen": 1791554205,
+   "tier": "day1",
+   "volume_usd": 2286.84,
+   "image_url": "https://cdn.helius-rpc.com/cdn-cgi/image//https://desperate-moccasin-minnow.myfilebase.com/ipfs/QmXL4UZW76rdr8ZP8gUps5xi7rqppjy4q91YYfTYiLmeQY",
+   "gates": [
+    {
+     "n": 1,
+     "name": "1 socials",
+     "passed": false,
+     "detail": "socials: none found"
+    },
+    {
+     "n": 2,
+     "name": "2 website",
+     "passed": false,
+     "detail": "website: none found"
+    },
+    {
+     "n": 3,
+     "name": "3 mc > $20k",
+     "passed": false,
+     "detail": "mc > $20k: FAIL ($3233)"
+    },
+    {
+     "n": 4,
+     "name": "4 mc < $100k",
+     "passed": true,
+     "detail": "mc < $100k: PASS ($3233)"
+    },
+    {
+     "n": 5,
+     "name": "5 liquidity >= $10k",
+     "passed": false,
+     "detail": "liquidity: FAIL ($0 in curve, need $10000)"
+    },
+    {
+     "n": 6,
+     "name": "6 whitelisted whales",
+     "passed": null,
+     "detail": "whitelist: STUB, wallets/whitelist.txt is empty"
+    },
+    {
+     "n": 7,
+     "name": "7 no blacklisted",
+     "passed": null,
+     "detail": "blacklist: STUB, wallets/blacklist.txt is empty"
+    },
+    {
+     "n": 8,
+     "name": "8 authorities (info)",
+     "passed": null,
+     "detail": "authorities: mint REVOKED, freeze REVOKED"
+    },
+    {
+     "n": 9,
+     "name": "9 concentration (info)",
+     "passed": null,
+     "detail": "concentration: top-10 hold 100.0% (HIGH)"
+    }
+   ],
+   "verdict": "PASS",
+   "partial": true,
+   "alerted": false,
+   "alerted_at": null,
+   "reason": "1/5 defined gates, tier day1 (gates 6-7 pending: wallet lists)"
+  },
+  {
+   "mint": "uhTuYb7Lbjvx8piJyQFicfTQPamFsSC99xiSVA8pump",
+   "launchpad": "pump.fun",
+   "first_seen": 1791554193,
+   "tier": "day1",
+   "volume_usd": 3109.18,
+   "image_url": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreic4dulfryzuyrlnujvqsdpu5ad4ukebp3pd73cz2sl5trjflpxode",
+   "gates": [
+    {
+     "n": 1,
+     "name": "1 socials",
+     "passed": false,
+     "detail": "socials: none found"
+    },
+    {
+     "n": 2,
+     "name": "2 website",
+     "passed": false,
+     "detail": "website: none found"
+    },
+    {
+     "n": 3,
+     "name": "3 mc > $20k",
+     "passed": false,
+     "detail": "mc > $20k: FAIL ($3079)"
+    },
+    {
+     "n": 4,
+     "name": "4 mc < $100k",
+     "passed": true,
+     "detail": "mc < $100k: PASS ($3079)"
+    },
+    {
+     "n": 5,
+     "name": "5 liquidity >= $10k",
+     "passed": false,
+     "detail": "liquidity: FAIL ($6 in curve, need $10000)"
+    },
+    {
+     "n": 6,
+     "name": "6 whitelisted whales",
+     "passed": null,
+     "detail": "whitelist: STUB, wallets/whitelist.txt is empty"
+    },
+    {
+     "n": 7,
+     "name": "7 no blacklisted",
+     "passed": null,
+     "detail": "blacklist: STUB, wallets/blacklist.txt is empty"
+    },
+    {
+     "n": 8,
+     "name": "8 authorities (info)",
+     "passed": null,
+     "detail": "authorities: mint REVOKED, freeze REVOKED"
+    },
+    {
+     "n": 9,
+     "name": "9 concentration (info)",
+     "passed": null,
+     "detail": "concentration: top-10 hold 100.0% (HIGH)"
+    }
+   ],
+   "verdict": "PASS",
+   "partial": true,
+   "alerted": false,
+   "alerted_at": null,
+   "reason": "1/5 defined gates, tier day1 (gates 6-7 pending: wallet lists)"
+  },
+  {
+   "mint": "DiPBH3KW12YyQ8bcs3HfCjY6h9gQEd5vNM9gChumpump",
+   "launchpad": "pump.fun",
+   "first_seen": 1791554181,
+   "tier": "day2",
+   "volume_usd": 3324.63,
+   "image_url": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafybeic5gksmdhporukaxla7upz2daaeotedf2msxtr3d4v24wlugu2rai",
+   "gates": [
+    {
+     "n": 1,
+     "name": "1 socials",
+     "passed": false,
+     "detail": "socials: none found"
+    },
+    {
+     "n": 2,
+     "name": "2 website",
+     "passed": false,
+     "detail": "website: none found"
+    },
+    {
+     "n": 3,
+     "name": "3 mc > $90k",
+     "passed": true,
+     "detail": "mc > $90k: PASS ($138456)"
+    },
+    {
+     "n": 4,
+     "name": "4 mc < $450k",
+     "passed": true,
+     "detail": "mc < $450k: PASS ($138456)"
+    },
+    {
+     "n": 5,
+     "name": "5 liquidity >= $10k",
+     "passed": false,
+     "detail": "liquidity: FAIL ($0 in curve, need $10000)"
+    },
+    {
+     "n": 6,
+     "name": "6 whitelisted whales",
+     "passed": null,
+     "detail": "whitelist: STUB, wallets/whitelist.txt is empty"
+    },
+    {
+     "n": 7,
+     "name": "7 no blacklisted",
+     "passed": null,
+     "detail": "blacklist: STUB, wallets/blacklist.txt is empty"
+    },
+    {
+     "n": 8,
+     "name": "8 authorities (info)",
+     "passed": null,
+     "detail": "authorities: mint REVOKED, freeze REVOKED"
+    },
+    {
+     "n": 9,
+     "name": "9 concentration (info)",
+     "passed": null,
+     "detail": "concentration: top-10 hold 100.0% (HIGH)"
+    }
+   ],
+   "verdict": "PASS",
+   "partial": true,
+   "alerted": false,
+   "alerted_at": null,
+   "reason": "2/5 defined gates, tier day2 (gates 6-7 pending: wallet lists)"
+  },
   {
    "mint": "E5sWYuk5yNMj64XoLcTQJj4hXmPPURjY9YuridRmpump",
    "launchpad": "pump.fun",
    "first_seen": 1791553925,
    "tier": "day1",
-   "volume_usd": 1635.63,
+   "volume_usd": null,
    "image_url": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreicb3vbq6hfkuoobljoez77btmcruyuxmw3h5uapp6keknmxckhqwy",
    "gates": [
     {
@@ -3719,7 +3940,7 @@
    "launchpad": "pump.fun",
    "first_seen": 1791553914,
    "tier": "day1",
-   "volume_usd": 1781.84,
+   "volume_usd": null,
    "image_url": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreicjo625a7vnpy2upuytiepdljkywhyyhuf6mz5zmvstjneunh3rei",
    "gates": [
     {
@@ -4340,7 +4561,7 @@
    "launchpad": "pump.fun",
    "first_seen": 1791553284,
    "tier": "day2",
-   "volume_usd": 302914.7,
+   "volume_usd": 299047.33,
    "image_url": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/QmNdTtJauw39u4DzGyTaZ35rRx4VgAxqb91wE89zjyHWd2",
    "gates": [
     {
@@ -5099,7 +5320,7 @@
    "launchpad": "pump.fun",
    "first_seen": 1791550912,
    "tier": "day2",
-   "volume_usd": 44197.1,
+   "volume_usd": 48030.29,
    "image_url": "https://cdn.helius-rpc.com/cdn-cgi/image//https://gateway.pinata.cloud/ipfs/bafkreihtzryd2nstbcuz3eaktboib2bg4so6ziwydw6y37aq7ccqzupxqe",
    "gates": [
     {
@@ -5582,7 +5803,7 @@
    "launchpad": "pump.fun",
    "first_seen": 1791549690,
    "tier": "day1",
-   "volume_usd": 1310.83,
+   "volume_usd": null,
    "image_url": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreia4kcm5vp53cq2h4mcad66v535pyj7sw3zhtoqo7uipn5tpejnzay",
    "gates": [
     {
@@ -5720,7 +5941,7 @@
    "launchpad": "pump.fun",
    "first_seen": 1791549094,
    "tier": "day1",
-   "volume_usd": 1279.37,
+   "volume_usd": null,
    "image_url": "https://cdn.helius-rpc.com/cdn-cgi/image//https://m.rapidlaunch.io/images/jCQzLhqla.jpg",
    "gates": [
     {
@@ -6548,7 +6769,7 @@
    "launchpad": "pump.fun",
    "first_seen": 1791547278,
    "tier": "day2",
-   "volume_usd": 567711.66,
+   "volume_usd": 560646.57,
    "image_url": "https://cdn.helius-rpc.com/cdn-cgi/image//https://pump.mypinata.cloud/ipfs/bafkreie3hkfzcthamfsfvhvoxerizyn45w2tik6nhdz225hxmrogi3h5ui",
    "gates": [
     {
@@ -7514,7 +7735,7 @@
    "launchpad": "pump.fun",
    "first_seen": 1791545182,
    "tier": "day2",
-   "volume_usd": 620905.84,
+   "volume_usd": 623952.38,
    "image_url": "https://cdn.helius-rpc.com/cdn-cgi/image//https://pbs.twimg.com/media/HT6sihpboAAMro2?format=png&name=small",
    "gates": [
     {
@@ -7583,7 +7804,7 @@
    "launchpad": "pump.fun",
    "first_seen": 1791544894,
    "tier": "day1",
-   "volume_usd": 1217.07,
+   "volume_usd": null,
    "image_url": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafybeih7xpgml37ox6wejgsl3iahkore6wqmxbv4i6vvvszi63jpmh4fey",
    "gates": [
     {
@@ -7859,7 +8080,7 @@
    "launchpad": "pump.fun",
    "first_seen": 1791543688,
    "tier": "day1",
-   "volume_usd": null,
+   "volume_usd": 1275.99,
    "image_url": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafybeidgxsamkquz2mjqxz2llkxbvgps4ugrnoyxq5fosfhj5xtos7obsu",
    "gates": [
     {
@@ -7997,7 +8218,7 @@
    "launchpad": "pump.fun",
    "first_seen": 1791543118,
    "tier": "day1",
-   "volume_usd": null,
+   "volume_usd": 1014.48,
    "image_url": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreidhioosccjjon7dp7rid725sqousjj5yoapjqzm3s7xwmr7ioecii",
    "gates": [
     {
@@ -8066,7 +8287,7 @@
    "launchpad": "pump.fun",
    "first_seen": 1791542794,
    "tier": "day1",
-   "volume_usd": null,
+   "volume_usd": 1730.57,
    "image_url": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafkreidhioosccjjon7dp7rid725sqousjj5yoapjqzm3s7xwmr7ioecii",
    "gates": [
     {
@@ -9515,7 +9736,7 @@
    "launchpad": "pump.fun",
    "first_seen": 1791538912,
    "tier": "day1",
-   "volume_usd": null,
+   "volume_usd": 1031.24,
    "image_url": "https://cdn.helius-rpc.com/cdn-cgi/image//https://ipfs.io/ipfs/bafybeiekl3snzzer3c6ksa4dcuahzxpev3ez46gcyxf7pawixk4sj6aira",
    "gates": [
     {
@@ -10306,213 +10527,6 @@
      "name": "5 liquidity >= $10k",
      "passed": false,
      "detail": "liquidity: FAIL ($1500 in curve, need $10000)"
-    },
-    {
-     "n": 6,
-     "name": "6 whitelisted whales",
-     "passed": null,
-     "detail": "whitelist: STUB, wallets/whitelist.txt is empty"
-    },
-    {
-     "n": 7,
-     "name": "7 no blacklisted",
-     "passed": null,
-     "detail": "blacklist: STUB, wallets/blacklist.txt is empty"
-    },
-    {
-     "n": 8,
-     "name": "8 authorities (info)",
-     "passed": null,
-     "detail": "authorities: mint REVOKED, freeze REVOKED"
-    },
-    {
-     "n": 9,
-     "name": "9 concentration (info)",
-     "passed": null,
-     "detail": "concentration: top-10 hold 100.0% (HIGH)"
-    }
-   ],
-   "verdict": "PASS",
-   "partial": true,
-   "alerted": false,
-   "alerted_at": null,
-   "reason": "1/5 defined gates, tier day1 (gates 6-7 pending: wallet lists)"
-  },
-  {
-   "mint": "4AS8HbjA8L7hA3cHec3STvbkdDpd99p9x3p18omFpump",
-   "launchpad": "pump.fun",
-   "first_seen": 1791537380,
-   "tier": "day1",
-   "volume_usd": 4124.15,
-   "image_url": null,
-   "gates": [
-    {
-     "n": 1,
-     "name": "1 socials",
-     "passed": false,
-     "detail": "socials: none found"
-    },
-    {
-     "n": 2,
-     "name": "2 website",
-     "passed": false,
-     "detail": "website: none found"
-    },
-    {
-     "n": 3,
-     "name": "3 mc > $20k",
-     "passed": false,
-     "detail": "mc > $20k: FAIL ($3083)"
-    },
-    {
-     "n": 4,
-     "name": "4 mc < $100k",
-     "passed": true,
-     "detail": "mc < $100k: PASS ($3083)"
-    },
-    {
-     "n": 5,
-     "name": "5 liquidity >= $10k",
-     "passed": false,
-     "detail": "liquidity: FAIL ($0 in curve, need $10000)"
-    },
-    {
-     "n": 6,
-     "name": "6 whitelisted whales",
-     "passed": null,
-     "detail": "whitelist: STUB, wallets/whitelist.txt is empty"
-    },
-    {
-     "n": 7,
-     "name": "7 no blacklisted",
-     "passed": null,
-     "detail": "blacklist: STUB, wallets/blacklist.txt is empty"
-    },
-    {
-     "n": 8,
-     "name": "8 authorities (info)",
-     "passed": null,
-     "detail": "authorities: mint REVOKED, freeze REVOKED"
-    },
-    {
-     "n": 9,
-     "name": "9 concentration (info)",
-     "passed": null,
-     "detail": "concentration: top-10 hold 100.0% (HIGH)"
-    }
-   ],
-   "verdict": "PASS",
-   "partial": true,
-   "alerted": false,
-   "alerted_at": null,
-   "reason": "1/5 defined gates, tier day1 (gates 6-7 pending: wallet lists)"
-  },
-  {
-   "mint": "vUycvhJ7fbRJCg8UkMFSmys2b3XaunnF82s8PQepump",
-   "launchpad": "pump.fun",
-   "first_seen": 1791537080,
-   "tier": "day2",
-   "volume_usd": 49331.26,
-   "image_url": "https://cdn.helius-rpc.com/cdn-cgi/image//https://gateway.pinata.cloud/ipfs/bafkreihicemwcmdjd7qac5v7dgxgoy6ipgr5zdu3otipprtqr5z2qdkiy4",
-   "gates": [
-    {
-     "n": 1,
-     "name": "1 socials",
-     "passed": false,
-     "detail": "socials: none found"
-    },
-    {
-     "n": 2,
-     "name": "2 website",
-     "passed": false,
-     "detail": "website: none found"
-    },
-    {
-     "n": 3,
-     "name": "3 mc > $90k",
-     "passed": true,
-     "detail": "mc > $90k: PASS ($350544)"
-    },
-    {
-     "n": 4,
-     "name": "4 mc < $450k",
-     "passed": true,
-     "detail": "mc < $450k: PASS ($350544)"
-    },
-    {
-     "n": 5,
-     "name": "5 liquidity >= $10k",
-     "passed": false,
-     "detail": "liquidity: FAIL ($0 in curve, need $10000)"
-    },
-    {
-     "n": 6,
-     "name": "6 whitelisted whales",
-     "passed": null,
-     "detail": "whitelist: STUB, wallets/whitelist.txt is empty"
-    },
-    {
-     "n": 7,
-     "name": "7 no blacklisted",
-     "passed": null,
-     "detail": "blacklist: STUB, wallets/blacklist.txt is empty"
-    },
-    {
-     "n": 8,
-     "name": "8 authorities (info)",
-     "passed": null,
-     "detail": "authorities: mint REVOKED, freeze REVOKED"
-    },
-    {
-     "n": 9,
-     "name": "9 concentration (info)",
-     "passed": null,
-     "detail": "concentration: top-10 hold 20.9%"
-    }
-   ],
-   "verdict": "PASS",
-   "partial": true,
-   "alerted": false,
-   "alerted_at": null,
-   "reason": "2/5 defined gates, tier day2 (gates 6-7 pending: wallet lists)"
-  },
-  {
-   "mint": "GkV3EjoUcvtznJpj14yiFqDgVgT3GFShdHA226M6pump",
-   "launchpad": "pump.fun",
-   "first_seen": 1791536791,
-   "tier": "day1",
-   "volume_usd": 10417.37,
-   "image_url": "https://cdn.helius-rpc.com/cdn-cgi/image//https://pump.mypinata.cloud/ipfs/bafkreie67dcv6mpq37qfxargvbzwawixbziksc3otrpxhzleiq5kq6jj7u",
-   "gates": [
-    {
-     "n": 1,
-     "name": "1 socials",
-     "passed": false,
-     "detail": "socials: none found"
-    },
-    {
-     "n": 2,
-     "name": "2 website",
-     "passed": false,
-     "detail": "website: none found"
-    },
-    {
-     "n": 3,
-     "name": "3 mc > $20k",
-     "passed": false,
-     "detail": "mc > $20k: FAIL ($3237)"
-    },
-    {
-     "n": 4,
-     "name": "4 mc < $100k",
-     "passed": true,
-     "detail": "mc < $100k: PASS ($3237)"
-    },
-    {
-     "n": 5,
-     "name": "5 liquidity >= $10k",
-     "passed": false,
-     "detail": "liquidity: FAIL ($2 in curve, need $10000)"
     },
     {
      "n": 6,

@@ -1,8 +1,8 @@
 {
- "updated_at": 1791720951,
+ "updated_at": 1791721252,
  "scanner": {
   "status": "ok",
-  "last_poll": 1791720951,
+  "last_poll": 1791721252,
   "mints_seen_total": 2479,
   "new_this_poll": 0,
   "error": null
@@ -3784,7 +3784,7 @@
    "launchpad": "pump.fun",
    "first_seen": 1791599479,
    "tier": "day2",
-   "volume_usd": 502294.33,
+   "volume_usd": 501119.98,
    "mcap_usd": 3254807.0,
    "image_url": "https://gateway.pinata.cloud/ipfs/bafybeicailrr3iobedoxprzs6evwq3nqxsezdhvxbhpseyhltfmufybxuq",
    "gates": [
@@ -3854,8 +3854,8 @@
    "launchpad": "pump.fun",
    "first_seen": 1791597976,
    "tier": "day2",
-   "volume_usd": 511161.51,
-   "mcap_usd": 754698.0,
+   "volume_usd": 514181.7,
+   "mcap_usd": 725564.0,
    "image_url": "https://edge.uxento.io/image/62rpE4EhLDYmersUHarKo8KugAcSKdjLKVf4UyRCFWq9",
    "gates": [
     {
@@ -4274,8 +4274,8 @@
    "launchpad": "pump.fun",
    "first_seen": 1791589880,
    "tier": "day2",
-   "volume_usd": 580350.04,
-   "mcap_usd": 3979976.0,
+   "volume_usd": 578648.03,
+   "mcap_usd": 3982586.0,
    "image_url": "https://gateway.pinata.cloud/ipfs/bafybeia3b3mtdchrvtvi3bi3g6ehvbeswxkhqqplzm4hdanybzbawurkn4",
    "gates": [
     {
@@ -4554,8 +4554,8 @@
    "launchpad": "pump.fun",
    "first_seen": 1791581486,
    "tier": "day2",
-   "volume_usd": 89258.6,
-   "mcap_usd": 934090.0,
+   "volume_usd": 88948.67,
+   "mcap_usd": 935026.0,
    "image_url": "https://gateway.pinata.cloud/ipfs/QmRHTxCeVxo69UJZ3xwH2ruQyy5HoT4AUDT5n4j3Jobpbz",
    "gates": [
     {
@@ -4694,7 +4694,7 @@
    "launchpad": "pump.fun",
    "first_seen": 1791574586,
    "tier": "day2",
-   "volume_usd": 822.33,
+   "volume_usd": 822.12,
    "mcap_usd": 176341.0,
    "image_url": "https://gateway.pinata.cloud/ipfs/bafkreiddpxnd42tfyeto5db5exnpy4jeqmn7zpj5q2znz2ykun2n2c4yyi",
    "gates": [
@@ -4834,8 +4834,8 @@
    "launchpad": "pump.fun",
    "first_seen": 1791562544,
    "tier": "day2",
-   "volume_usd": 4615.68,
-   "mcap_usd": 3230697.0,
+   "volume_usd": 4678.67,
+   "mcap_usd": 3233067.0,
    "image_url": "https://gateway.pinata.cloud/ipfs/bafkreidtxxdreb4wvmz3kn232xdiciqpfaa52hgezfuyjujpt5qd2ei3pm",
    "gates": [
     {
@@ -5253,7 +5253,7 @@
    "launchpad": "pump.fun",
    "first_seen": 1791553284,
    "tier": "day2",
-   "volume_usd": 78906.44,
+   "volume_usd": 78905.81,
    "image_url": "https://gateway.pinata.cloud/ipfs/QmNdTtJauw39u4DzGyTaZ35rRx4VgAxqb91wE89zjyHWd2",
    "gates": [
     {
@@ -5393,7 +5393,7 @@
    "launchpad": "pump.fun",
    "first_seen": 1791547278,
    "tier": "day2",
-   "volume_usd": 357012.52,
+   "volume_usd": 357173.94,
    "image_url": "https://pump.mypinata.cloud/ipfs/bafkreie3hkfzcthamfsfvhvoxerizyn45w2tik6nhdz225hxmrogi3h5ui",
    "gates": [
     {
@@ -5456,14 +5456,14 @@
    "alerted": false,
    "alerted_at": null,
    "reason": "1/5 defined gates, tier day2 (gates 6-7 pending: wallet lists)",
-   "mcap_usd": 2771702.0
+   "mcap_usd": 2773098.0
   },
   {
    "mint": "kSpfjaBRhNJUmbL2SbwT19wfJesD3niQMNEWLzopump",
    "launchpad": "pump.fun",
    "first_seen": 1791545182,
    "tier": "day2",
-   "volume_usd": 241092.57,
+   "volume_usd": 240085.72,
    "image_url": "https://pbs.twimg.com/media/HT6sihpboAAMro2?format=png&name=small",
    "gates": [
     {
@@ -5526,7 +5526,7 @@
    "alerted": false,
    "alerted_at": null,
    "reason": "1/5 defined gates, tier day2 (gates 6-7 pending: wallet lists)",
-   "mcap_usd": 619788842.0
+   "mcap_usd": 617746547.0
   }
  ],
  "alerts": []

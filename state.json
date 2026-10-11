@@ -1,8 +1,8 @@
 {
- "updated_at": 1791697551,
+ "updated_at": 1791697851,
  "scanner": {
   "status": "ok",
-  "last_poll": 1791697551,
+  "last_poll": 1791697851,
   "mints_seen_total": 2479,
   "new_this_poll": 0,
   "error": null
@@ -3784,7 +3784,7 @@
    "launchpad": "pump.fun",
    "first_seen": 1791599479,
    "tier": "day2",
-   "volume_usd": 384621.94,
+   "volume_usd": 383718.3,
    "mcap_usd": 3853046.0,
    "image_url": "https://gateway.pinata.cloud/ipfs/bafybeicailrr3iobedoxprzs6evwq3nqxsezdhvxbhpseyhltfmufybxuq",
    "gates": [
@@ -3854,8 +3854,8 @@
    "launchpad": "pump.fun",
    "first_seen": 1791597976,
    "tier": "day2",
-   "volume_usd": 384845.42,
-   "mcap_usd": 616565.0,
+   "volume_usd": 384363.2,
+   "mcap_usd": 612490.0,
    "image_url": "https://edge.uxento.io/image/62rpE4EhLDYmersUHarKo8KugAcSKdjLKVf4UyRCFWq9",
    "gates": [
     {
@@ -4274,8 +4274,8 @@
    "launchpad": "pump.fun",
    "first_seen": 1791589880,
    "tier": "day2",
-   "volume_usd": 521874.38,
-   "mcap_usd": 4095802.0,
+   "volume_usd": 521509.69,
+   "mcap_usd": 4091311.0,
    "image_url": "https://gateway.pinata.cloud/ipfs/bafybeia3b3mtdchrvtvi3bi3g6ehvbeswxkhqqplzm4hdanybzbawurkn4",
    "gates": [
     {
@@ -4554,8 +4554,8 @@
    "launchpad": "pump.fun",
    "first_seen": 1791581486,
    "tier": "day2",
-   "volume_usd": 119487.2,
-   "mcap_usd": 924871.0,
+   "volume_usd": 120785.66,
+   "mcap_usd": 907558.0,
    "image_url": "https://gateway.pinata.cloud/ipfs/QmRHTxCeVxo69UJZ3xwH2ruQyy5HoT4AUDT5n4j3Jobpbz",
    "gates": [
     {
